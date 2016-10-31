@@ -1,0 +1,27 @@
+all autocomplete
+applysyntax
+autofilename
+brackethighlighter
+colorhighlighter
+colorcoder
+colorpicker
+aonverttoutf8
+docblockr
+easymotioin
+git 
+git gutter
+inline google translate
+markdownediting
+package control
+php syntax checker
+phpcs
+phpfmt
+plaintasks
+sftp 
+sidebar enhancements
+styletoken
+sublimecodeintel
+sublimelinter
+sublimerepl
+sublimetexttrans-master
+wordcount
